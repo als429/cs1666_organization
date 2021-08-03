@@ -1,4 +1,4 @@
-# Magagment week end report
+# Management week end report
 manager_name: ""
 week: 1
 # Specific goals:
@@ -9,7 +9,7 @@ goal:
   - desc: ""
     prs: []
     status: ""
-# Team member evalution
+# Team member evaluation
 team_members:
   - PITTIDHERE: ""
     score: 0
